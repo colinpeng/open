@@ -1,6 +1,7 @@
 # 内容：T
 # 数量：3条
 USER-AGENT,T*
-DOMAIN,*.com.tw
+DOMAIN,hncb.com.tw
+DOMAIN,taishinbank.com.tw
 DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,skyking.com.tw
