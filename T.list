@@ -1,7 +1,17 @@
-# 内容：T
-# 数量：3条
-USER-AGENT,T*
-DOMAIN,hncb.com.tw
-DOMAIN,taishinbank.com.tw
-DOMAIN,hamifans.emome.net
-DOMAIN-SUFFIX,skyking.com.tw
+# 内容：tw
+# 域名关键字匹配
+# DOMAIN-KEYWORD,tw
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,org.tw
+DOMAIN-SUFFIX,net.tw
+DOMAIN-SUFFIX,idv.tw
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,shopee.tw
+DOMAIN-SUFFIX,momo.com.tw
+DOMAIN-SUFFIX,etmall.com.tw
+DOMAIN-SUFFIX,yahoo.com.tw
+DOMAIN-SUFFIX,ptt.cc
